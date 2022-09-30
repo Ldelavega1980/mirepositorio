@@ -1,9 +1,10 @@
 Diseño 3d
 En el uso de Rhino, tener en cuenta las siguientes herramientas:
+
 * Diferencia Booleana (Para restar entre 2 superficies)
 * Extrusion de curvas (Para dar volumen a una figura plana)
 * Contour (para tranasformar un cuerpo sólido en capas) Esto podría utilizarse para imprimir un cuerpo con un cortador laser
-
+Una vez terminado el objeto a imprimir, es importante Exportar el objeto seleccionado a *.std
 
 Impresión 3D
 Una vez generado el archivo (*.std) es necesario procesarlo para transformarlo en Gcode (lenguaje que recibe la impresora)
