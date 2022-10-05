@@ -19,3 +19,7 @@ Conf "machine Operation"
 Los 3 grados de libertad de velocidad se da por: Tipo de herramienta, RPM y velocidad de movimiento de los ejes.
 Movimientos de traslado sobre la madera
 Configurar los puentes en los cortes, para que la madera quede sujeta al material originak y no ocasione accidentes
+
+
+Se pueden descargar modelos abiertos para CNC en "www.opendesk.com" o wikihouse.cc
+Calculador de cortes para curvar madera: 
